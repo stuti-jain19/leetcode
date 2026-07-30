@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0088-merge-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -36,9 +37,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0088-merge-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
