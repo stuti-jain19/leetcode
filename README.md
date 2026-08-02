@@ -25,11 +25,13 @@
 | [0088-merge-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/stuti-jain19/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuti-jain19/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -55,4 +58,9 @@
 | [0088-merge-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/stuti-jain19/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
