@@ -82,4 +82,16 @@
 | ------- |
 | [0136-single-number](https://github.com/stuti-jain19/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/stuti-jain19/leetcode/tree/master/0268-missing-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/stuti-jain19/leetcode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/stuti-jain19/leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/stuti-jain19/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
