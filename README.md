@@ -7,6 +7,7 @@
 | [0189-rotate-array](https://github.com/stuti-jain19/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/stuti-jain19/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/stuti-jain19/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/stuti-jain19/leetcode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/stuti-jain19/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
