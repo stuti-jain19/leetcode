@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti-jain19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/stuti-jain19/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuti-jain19/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stuti-jain19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -65,6 +66,7 @@
 | [0268-missing-number](https://github.com/stuti-jain19/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti-jain19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/stuti-jain19/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3731-find-missing-elements](https://github.com/stuti-jain19/leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -80,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti-jain19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/stuti-jain19/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stuti-jain19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
