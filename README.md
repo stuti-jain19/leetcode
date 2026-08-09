@@ -7,6 +7,7 @@
 | [0189-rotate-array](https://github.com/stuti-jain19/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/stuti-jain19/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/stuti-jain19/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/stuti-jain19/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -15,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/stuti-jain19/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti-jain19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti-jain19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/stuti-jain19/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuti-jain19/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stuti-jain19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -72,6 +75,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -142,4 +146,16 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stuti-jain19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
