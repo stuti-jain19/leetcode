@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/stuti-jain19/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/stuti-jain19/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/stuti-jain19/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
@@ -32,6 +33,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/stuti-jain19/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/stuti-jain19/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/stuti-jain19/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/stuti-jain19/leetcode/tree/master/0088-merge-sorted-array) |
@@ -190,5 +192,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/stuti-jain19/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
