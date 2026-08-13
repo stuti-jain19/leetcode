@@ -47,6 +47,7 @@
 | [0283-move-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti-jain19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/stuti-jain19/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0922-sort-array-by-parity-ii](https://github.com/stuti-jain19/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1748-sum-of-unique-elements](https://github.com/stuti-jain19/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -87,6 +88,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/stuti-jain19/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -110,6 +112,7 @@
 | [0268-missing-number](https://github.com/stuti-jain19/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti-jain19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/stuti-jain19/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1748-sum-of-unique-elements](https://github.com/stuti-jain19/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/stuti-jain19/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/stuti-jain19/leetcode/tree/master/3731-find-missing-elements) |
