@@ -10,6 +10,7 @@
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/stuti-jain19/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/stuti-jain19/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/stuti-jain19/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@
 | [1748-sum-of-unique-elements](https://github.com/stuti-jain19/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuti-jain19/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stuti-jain19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/stuti-jain19/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/stuti-jain19/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/stuti-jain19/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -147,6 +150,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/stuti-jain19/leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/stuti-jain19/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -179,20 +183,24 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/stuti-jain19/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/stuti-jain19/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/stuti-jain19/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/stuti-jain19/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
