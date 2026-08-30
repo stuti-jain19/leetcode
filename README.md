@@ -64,6 +64,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/stuti-jain19/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/stuti-jain19/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stuti-jain19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/stuti-jain19/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/stuti-jain19/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -88,6 +89,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/stuti-jain19/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/stuti-jain19/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/stuti-jain19/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/stuti-jain19/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/stuti-jain19/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
