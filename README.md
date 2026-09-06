@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/stuti-jain19/leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/stuti-jain19/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/stuti-jain19/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti-jain19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
@@ -207,6 +208,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/stuti-jain19/leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/stuti-jain19/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/stuti-jain19/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/stuti-jain19/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
