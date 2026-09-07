@@ -26,6 +26,7 @@
 | [0118-pascals-triangle](https://github.com/stuti-jain19/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stuti-jain19/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/stuti-jain19/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/stuti-jain19/leetcode/tree/master/1510-stone-game-iv) |
 ## Recursion
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/stuti-jain19/leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/stuti-jain19/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/stuti-jain19/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/stuti-jain19/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/stuti-jain19/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
