@@ -63,6 +63,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/stuti-jain19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/stuti-jain19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/stuti-jain19/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/stuti-jain19/leetcode/tree/master/0835-image-overlap) |
 | [0922-sort-array-by-parity-ii](https://github.com/stuti-jain19/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/stuti-jain19/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -273,6 +274,7 @@
 | [0048-rotate-image](https://github.com/stuti-jain19/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/stuti-jain19/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/stuti-jain19/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/stuti-jain19/leetcode/tree/master/0835-image-overlap) |
 ## Segment Tree
 |  |
 | ------- |
