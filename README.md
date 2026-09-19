@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/stuti-jain19/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/stuti-jain19/leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/stuti-jain19/leetcode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/stuti-jain19/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/stuti-jain19/leetcode/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/stuti-jain19/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/stuti-jain19/leetcode/tree/master/2029-stone-game-ix) |
@@ -306,4 +307,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/stuti-jain19/leetcode/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/stuti-jain19/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
