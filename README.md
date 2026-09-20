@@ -231,6 +231,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/stuti-jain19/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/stuti-jain19/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/stuti-jain19/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/stuti-jain19/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/stuti-jain19/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/stuti-jain19/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
@@ -247,6 +248,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/stuti-jain19/leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/stuti-jain19/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/stuti-jain19/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Minimax
 |  |
 | ------- |
