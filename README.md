@@ -230,6 +230,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/stuti-jain19/leetcode/tree/master/0115-distinct-subsequences) |
+| [0856-score-of-parentheses](https://github.com/stuti-jain19/leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/stuti-jain19/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/stuti-jain19/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/stuti-jain19/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -324,10 +325,12 @@
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/stuti-jain19/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/stuti-jain19/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/stuti-jain19/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/stuti-jain19/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/stuti-jain19/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
